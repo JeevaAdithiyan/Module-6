@@ -29,7 +29,10 @@ To create an **abstract class** named `Shape` with an **abstract method** `calcu
 ---
 
 ## 💻 Program
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/824a577d-d666-4c5e-a1ef-dffd258f6abe" />
 
 ## Output
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/81c75c24-c338-4c16-b184-b994677badd2" />
 
 ## Result
+Thus the program was successfully executed.and obtained the result
